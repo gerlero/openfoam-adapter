@@ -8,12 +8,6 @@ Read more details in the issue [#52: Releases and versioning](https://github.com
 
 <!-- markdownlint-configure-file {"MD024": { "siblings_only": true } } -->
 
-## [v1.3.2] Unreleased
-
-### Changed
-
-- Use the [setup-openfoam](https://github.com/marketplace/actions/setup-openfoam) action to install OpenFOAM within CI workflows [#338](https://github.com/precice/openfoam-adapter/pull/338).
-
 ## [v1.3.1] 2024-07-27
 
 ### Fixed
